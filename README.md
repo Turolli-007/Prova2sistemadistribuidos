@@ -19,3 +19,9 @@ def sincronizar():
     replica ["estoque"] = principal ["estoque"] - foi alterado de replica para principal 
     
 <img width="461" height="174" alt="image" src="https://github.com/user-attachments/assets/c0b8f5f5-a085-4e5b-b970-c52f0efba4c3" />
+
+# Tolerância a Falhas
+
+if replica ["online"]: - foi alterado de principal para replica 
+
+<img width="477" height="163" alt="image" src="https://github.com/user-attachments/assets/a2f6163b-21b2-455c-b88b-147005cde417" />
