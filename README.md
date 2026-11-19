@@ -44,3 +44,7 @@ if replica ["online"]: - foi alterado de principal para replica
 1 Os pedidos são processados no servidor principal.
 2 O estoque é alterado conforme os pedidos realizados 
 3 Após essa atualização, a sincronização envia o novo valor para a réplica.
+
+# Conclusão 
+
+Com essa prova eu aprendi a ler o código, identificar e corrigir os problemas solicitados pela empresa, e entendendo como uma replica funciona caso o principal caia 
